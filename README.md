@@ -60,3 +60,13 @@ Focused on solving real-world problems through data analytics.
 📫 [LinkedIn](#) | 🌐 [Portfolio Website (Coming Soon)](#)
 # internet-speed-satisfaction-analysis
 Exploring the impact of internet speed on e-commerce customer satisfaction.
+📁 internet-speed-satisfaction-analysis
+├── 📁 data/                ← Put CSV files here
+│   ├── internet_speeds.csv
+│   └── satisfaction_scores.csv
+├── 📁 notebooks/           ← Jupyter notebook or Python script
+│   └── analysis.ipynb
+├── 📁 visuals/             ← Save charts and screenshots here
+│   └── correlation_chart.png
+├── README.md               ← Already added
+└── summary.pdf             ← (optional report, later)
